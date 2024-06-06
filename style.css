@@ -305,6 +305,7 @@ body{
     .about p {
       font-size: 18px;
       padding: 20% 0%;
+      max-width: 90%;
     }
   
     .detail p {
