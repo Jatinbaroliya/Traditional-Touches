@@ -89,10 +89,10 @@ body{
     background-color: rgb(46,44,44);
     z-index: 20;
   }
-  .productlist{
+  /* .productlist{
     align-items: center;
     justify-content: center;
-  }
+  } */
   .products{
     display: flex;
                     /* flex-wrap: wrap; */
@@ -129,7 +129,7 @@ body{
   }
   .image{
     position: relative;
-    width: 467px;
+    height: 467px;
     width: 360px;
     padding-bottom: 100%; 
     overflow: hidden;
@@ -304,7 +304,7 @@ body{
   
     .about p {
       font-size: 18px;
-      padding: 280% 4%;
+      padding: 20% 4%;
     }
   
     .detail p {
