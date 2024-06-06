@@ -83,6 +83,7 @@ body{
     max-width: 80%;
     font-size: 35px;
     font-family: "Permanent Marker", cursive;
+    text-align: justify;
   }
   .seperation{
     height: 10px;
